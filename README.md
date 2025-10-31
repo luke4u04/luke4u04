@@ -3,7 +3,7 @@
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/shawn.luke.5249/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/luke4u) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:atoodoo04@gmail.com) 
 
 # 💻 Programming Languages
-<img width="400" align="right" height="300" alt="image" src="https://github.com/user-attachments/assets/765e7363-487a-4bfc-9dab-d7501714b95f" />
+<img width="400" align="right" height="300" alt="animated gif" src="https://github.com/user-attachments/assets/765e7363-487a-4bfc-9dab-d7501714b95f" />
 <div style="display: flex; flex-wrap: wrap;">
   <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java">
   <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript">
