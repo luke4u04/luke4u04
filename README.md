@@ -3,7 +3,14 @@
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/shawn.luke.5249/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/luke4u) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:atoodoo04@gmail.com) 
 
 # 💻 Programming Languages
-<img width="400" align="right" height="300" alt="animated gif" src="https://github.com/user-attachments/assets/765e7363-487a-4bfc-9dab-d7501714b95f" />
+  <div style="flex: 1;">
+    <img 
+      src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbWxlb2NlMzZzbGZvN25mNDB0YzB6aWc3N2sxMTduMHduc3Jmdmk4ZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ZVik7pBtu9dNS/giphy.gif" 
+      alt="animated gif" 
+      style="width:95%; border-radius:15px;" 
+      align ="right"
+    />
+  </div>
 <div style="display: flex; flex-wrap: wrap;">
   <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java">
   <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript">
@@ -21,7 +28,7 @@
   <img src="https://img.shields.io/badge/bootstrap-563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap 5">
   <img src="https://img.shields.io/badge/angularjs-E23237.svg?style=for-the-badge&logo=angularjs&logoColor=white" alt="AngularJS">
   <img src="https://img.shields.io/badge/tailwindcss-38B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="TailwindCSS">
-  <img src="https://img.shields.io/badge/.NET-68217A.svg?style=for-the-badge&logo=.net&logoColor=white" alt=".NET"></br>
+  <img src="https://img.shields.io/badge/.NET-68217A.svg?style=for-the-badge&logo=.net&logoColor=white" alt=".NET">
   <img src="https://img.shields.io/badge/git-F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git">
   <img src="https://img.shields.io/badge/github-181717.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
   <img src="https://img.shields.io/badge/jira-0052CC.svg?style=for-the-badge&logo=jira&logoColor=white" alt="Jira">
@@ -38,8 +45,10 @@
 </div>
 
 # 📊 GitHub Stats:
-![](https://nirzak-streak-stats.vercel.app/?user=luke4u04&theme=merko&hide_border=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=luke4u04&theme=merko&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<div >
+  <img src="https://nirzak-streak-stats.vercel.app/?user=luke4u04&theme=merko&hide_border=false" height="165">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=luke4u04&theme=merko&hide_border=false&include_all_commits=false&count_private=false&layout=compact" height="180">
+</div>
 
 
 
