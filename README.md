@@ -6,6 +6,15 @@
   
 # 💻 Programming Languages 
 
+  <div style="flex: 1;">
+    <img 
+      src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbWxlb2NlMzZzbGZvN25mNDB0YzB6aWc3N2sxMTduMHduc3Jmdmk4ZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ZVik7pBtu9dNS/giphy.gif" 
+      alt="animated gif" 
+      style="width:60%; border-radius:15px;" 
+      align ="right"
+    />
+  </div>
+
 
 <div style="display: flex; flex-wrap: wrap;">
   <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java">
@@ -15,15 +24,6 @@
   <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
   <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
 </div>
-
-  <div style="flex: 1;">
-    <img 
-      src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbWxlb2NlMzZzbGZvN25mNDB0YzB6aWc3N2sxMTduMHduc3Jmdmk4ZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ZVik7pBtu9dNS/giphy.gif" 
-      alt="animated gif" 
-      style="width:60%; border-radius:15px;" 
-      align ="right"
-    />
-  </div>
 
 # 🛠 Frameworks & Tools
 <div style="display: flex; flex-wrap: wrap;">
