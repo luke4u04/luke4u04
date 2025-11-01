@@ -10,7 +10,7 @@
     <img 
       src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbWxlb2NlMzZzbGZvN25mNDB0YzB6aWc3N2sxMTduMHduc3Jmdmk4ZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ZVik7pBtu9dNS/giphy.gif" 
       alt="animated gif" 
-      style="width:80%; border-radius:15px;" 
+      style="width:70%; border-radius:15px;" 
       align ="right"
     />
   </div>
