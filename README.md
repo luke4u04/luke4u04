@@ -1,8 +1,6 @@
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/shawn.luke.5249/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/luke4u) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:atoodoo04@gmail.com) 
-
-# 💻 Programming Languages
   <div style="flex: 1;">
     <img 
       src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbWxlb2NlMzZzbGZvN25mNDB0YzB6aWc3N2sxMTduMHduc3Jmdmk4ZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ZVik7pBtu9dNS/giphy.gif" 
@@ -11,6 +9,8 @@
       align ="right"
     />
   </div>
+  
+# 💻 Programming Languages 
 <div style="display: flex; flex-wrap: wrap;">
   <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java">
     <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript">
