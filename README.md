@@ -46,10 +46,7 @@
 </div>
 
 # 📊 GitHub Stats:
-<div align="center" style="display: flex; justify-content: center; align-items: center; gap: 10px;">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=luke4u04&theme=merko&hide_border=false" height="180">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=luke4u04&theme=merko&hide_border=false&include_all_commits=false&count_private=false&layout=compact" height="180">
-</div>
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=luke4u04&theme=prussian&short_numbers=true" alt="GitHub Streak" /></a>
 
 
 
